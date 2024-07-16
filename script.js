@@ -59,6 +59,6 @@ start.addEventListener('click', () => {
             stopRecognition();
             saveContent();
             startRecognition();
-        }, 1000);
+        }, 5000);
     }
 });
