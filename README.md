@@ -36,4 +36,19 @@ pinMode(white, OUTPUT);
 ```
 
 ![](imgs/t2-1.png)
+
+
 ## 2- Build a user interface to convert voice to text
+
+### [Web Page - Speech Recognition](https://5efatimah.github.io/2nd-Task-Web/)
+
+- First, I built a simple HTML page and customized it with CSS. Then, I created a new table in my database to save the content from the textarea on the page. The table has two columns: one for the ID and one for the text.
+![](imgs/t2-2-1.png)
+![](imgs/t2-2-2.png)
+  
+
+
+
+
+
+
